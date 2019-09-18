@@ -6,6 +6,8 @@ import org.openqa.selenium.WebDriver;
 import com.hudl.pageelements.LoginPage;
 import org.testng.Assert;
 
+/*This class contain all Login methods for Login Page*/
+
 public class LoginMethods {
     public static WebDriver driver;
 

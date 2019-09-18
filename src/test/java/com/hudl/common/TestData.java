@@ -1,5 +1,7 @@
 package com.hudl.common;
 
+/*This class stores all testData String values which can be used for different tests*/
+
 public class TestData {
     public static String email="snehaedwards@gmail.com";
     public static String password="Hudl#1234";

@@ -6,6 +6,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 import java.util.concurrent.TimeUnit;
 
+/*This class performs all browser Actions*/
+
 public class BrowserAction {
     static WebDriver driver;
     public static WebDriver startSelectedBrowser(String browserName) {

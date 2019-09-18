@@ -4,6 +4,7 @@ import com.hudl.common.BrowserAction;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
+/*This testcase does valid login and check if the home page is displayed after login */
 
 public class TC_Login {
 
