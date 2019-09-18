@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bd732bb-f4a4-4fea-96b4-f32fba5e0680" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1QmM7GhE9yLhWKKeCiIOW8O3u04" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.47931033" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.com.hudl.testcases">
+    <configuration name="TC_Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hudl.testcases.TC_Login" />
+      <module name="ATHudl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudl.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_InvalidLogin" type="TestNG" nameIsGenerated="true">
+      <module name="ATHudl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudl.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hudl.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.hudl.testcases.TC_InvalidLogin" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\scremers\IdeaProjects\ATHudl" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_InvalidLogin.verifyInvalidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATHudl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudl.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hudl.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.hudl.testcases.TC_InvalidLogin" />
+      <option name="METHOD_NAME" value="verifyInvalidLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\scremers\IdeaProjects\ATHudl" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATHudl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudl.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hudl.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.hudl.testcases.TC_Login" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\scremers\IdeaProjects\ATHudl" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC_Login.verifyValidLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATHudl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudl.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hudl.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="com.hudl.testcases.TC_Login" />
+      <option name="METHOD_NAME" value="verifyValidLogin" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\scremers\IdeaProjects\ATHudl" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hudl.TestCases" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\scremers\IdeaProjects\ATHudl" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hudl.testcases" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ATHudl" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudl.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hudl.testcases" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\scremers\IdeaProjects\ATHudl" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.hudl.testcases" type="TestNG" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hudl.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.hudl.testcases" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="C:\Users\scremers\IdeaProjects\ATHudl" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TC_Login" />
+      <item itemvalue="TestNG.TC_InvalidLogin" />
+      <item itemvalue="TestNG.com.hudl.testcases" />
+      <item itemvalue="TestNG.TC_Login" />
+      <item itemvalue="TestNG.TC_Login.verifyValidLogin" />
+      <item itemvalue="TestNG.TC_InvalidLogin.verifyInvalidLogin" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.com.hudl.testcases" />
+        <item itemvalue="TestNG.TC_InvalidLogin.verifyInvalidLogin" />
+        <item itemvalue="TestNG.TC_Login.verifyValidLogin" />
+        <item itemvalue="TestNG.TC_Login" />
+        <item itemvalue="Application.TC_Login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bd732bb-f4a4-4fea-96b4-f32fba5e0680" name="Default Changelist" comment="" />
+      <created>1568371148776</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568371148776</updated>
+      <workItem from="1568371153944" duration="6222000" />
+      <workItem from="1568545338769" duration="13589000" />
+      <workItem from="1568573831885" duration="5161000" />
+      <workItem from="1568618813448" duration="21300000" />
+      <workItem from="1568648631853" duration="192000" />
+      <workItem from="1568661534425" duration="347000" />
+      <workItem from="1568794753082" duration="861000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
